@@ -77,39 +77,5 @@ If output looks like `Python 3` - Congrats, Python 3 is installed properly.
 * `chmod +x TBomb.sh`
 * `bash TBomb.sh
 
-# Missing Tools on MacOS
-
-Toilet cannot be installed yet. But TBomb does still work.
-
-# Run TBomb:
-
-sudo bash TBomb.sh
-```
-
-## Demontrative Video:
-
-- Watch Indian Bombing Method <a href="https://youtu.be/gq7NKkNYuVA">here</a><br>
-
-
-## CONTRIBUTORS:
-
-- **SpeedX**<br>
-[-] Mail At:https://github.com/Hackertrackersj/Tbomb
-
-
-
-
-
-
-# CONTACT ME:
-
-Feel Free To Open An Issue...
-
-```
-                 Mail:https://github.com/Hackertrackersj/Tbomb
-       YouTube Channel:https://www.youtube.com/channel/UCqqNyOaX6Dxwg5e6Bf6reSw
-```
-
-<a href="https:
-
-
+## Warning
+This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.
