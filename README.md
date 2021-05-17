@@ -69,25 +69,13 @@ If output looks like `Python 3` - Congrats, Python 3 is installed properly.
 ## INSTALLATION macOS:
 
 * `brew install git`
-brew install python3`
-sudo easy_install pip`
-sudo pip install --upgrade pip`
-git clone https://github.com/Hackertrackersj/Tbomb`
-cd TBomb`
-chmod +x TBomb.sh`
-# Install Brew: 
-
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-
-# Install dependencys:
-
-brew install git
-brew install python3
-sudo easy_install pip
-sudo pip install --upgrade pip
-git clone https://github.com/Hackertrackersj/Tbomb
-cd TBomb
-chmod +x TBomb.sh
+* `brew install python3`
+* `sudo easy_install pip`
+* `sudo pip install --upgrade pip`
+* `git clone https://github.com/Hackertrackersj/Tbomb`
+* `cd TBomb`
+* `chmod +x TBomb.sh`
+* `bash TBomb.sh
 
 # Missing Tools on MacOS
 
