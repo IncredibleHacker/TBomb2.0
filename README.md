@@ -32,11 +32,11 @@ If output looks like `Python 3` - Congrats, Python 3 is installed properly.
 - whatsapp bombing
 - Frequent updates
 
-## Usage:
+## Available On
+- Termux
+- Kali Linux
 
-Run these commands to run TBomb
-
-### > For Termux:
+## Test:
 
 **Notice:** 
 
