@@ -53,7 +53,7 @@ If output looks like `Python 3` - Congrats, Python 3 is installed properly.
 * `ls`
 * `chmod +x TBomb 2.0.sh`
 * `bash TBomb 2.0.sh`
-```
+
 ## INSTALLATION [Kali Linux] :
 
 * `sudo apt install python`
