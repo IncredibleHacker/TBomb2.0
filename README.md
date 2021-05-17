@@ -40,8 +40,6 @@ If output looks like `Python 3` - Congrats, Python 3 is installed properly.
 - Termux
 - Mi Note 9 pro
 
-## For Termux
-
 ## INSTALLATION [Termux] :
 
 * `apt-get update -y`
@@ -53,25 +51,19 @@ If output looks like `Python 3` - Congrats, Python 3 is installed properly.
 * `ls`
 * `cd TBomb-2.0`
 * `ls`
+* `chmod +x TBomb 2.0.sh`
 * `bash TBomb 2.0.sh`
 ```
-### > For Linux:
-
-**Notice:** 
-
-git installation methods are not universal and do differ between distributions,
-so, installing git as per instructions below may not work.
-Please check out how to install `git` for your Linux distribution.
-Commands below provide instructions for Debian-based systems.
-
-To use the bomber type the following commands in Linux terminal:
-```
-sudo apt install git
-git clone https://github.com/Hackertrackersj/Tbomb
-cd TBomb
-chmod +x TBomb.sh
-sudo bash TBomb.sh
-```
+## INSTALLATION [Kali Linux] :
+* `sudo apt install python`
+* `sudo apt install python2`
+* `sudo apt install git`
+* `git clone https://github.com/IncredibleHacker/TBomb-2.0`
+* `ls`
+* `cd TBomb-2.0`
+* `ls`
+* `chmod +x TBomb 2.0.sh`
+* `bash TBomb 2.0.sh`
 
 ### > For macOS:
 
