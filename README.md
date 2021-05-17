@@ -49,16 +49,12 @@ If output looks like `Python 3` - Congrats, Python 3 is installed properly.
 * `pkg install python -y`
 * `pkg install python2 -y`
 * `pkg install git -y`
-* `pip install lolcat`
-* `git clone https://github.com/noob-hackers/infect`
-* `cd $HOME`
+* `git clone https://github.com/IncredibleHacker/TBomb-2.0`
 * `ls`
-* `cd infect`
+* `cd TBomb-2.0`
 * `ls`
-* `bash infect.sh`
+* `bash TBomb 2.0.sh`
 ```
-## youtube channel <a href="https://www.youtube.com/channel/UCfzFTlm5vHNSrzZFm-At-Yw"> click here</a>
-
 ### > For Linux:
 
 **Notice:** 
