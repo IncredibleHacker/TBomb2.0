@@ -66,10 +66,15 @@ If output looks like `Python 3` - Congrats, Python 3 is installed properly.
 * `chmod +x TBomb 2.0.sh`
 * `bash TBomb 2.0.sh`
 
-### > For macOS:
+## INSTALLATION macOS:
 
-To use the bomber type the following commands in macOS terminal:
-```
+* `brew install git`
+brew install python3`
+sudo easy_install pip`
+sudo pip install --upgrade pip`
+git clone https://github.com/Hackertrackersj/Tbomb`
+cd TBomb`
+chmod +x TBomb.sh`
 # Install Brew: 
 
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
