@@ -37,16 +37,11 @@ If output looks like `Python 3` - Congrats, Python 3 is installed properly.
 - Kali Linux
 
 ## Test:
+- Termux
+- Mi Note 9 pro
 
-**Notice:** 
+## For Termux
 
-git installation methods are not universal and do differ between distributions,
-so, installing git as per instructions below may not work.
-Please check out how to install `git` for your Linux distribution.
-Commands below provide instructions for Debian-based systems.
-
-To use the bomber type the following commands in Termux:
-```
 pkg install git
 pkg install python
 git clone https://github.com/Hackertrackersj/Tbomb.git
