@@ -1,4 +1,4 @@
-<h1 align="center">TBomb v2.2</h1>
+<h1 align="center">TBomb v2.0</h1>
 <p align="center">An open-source SMS/call bomber for Linux And Termux.</p><br>
 
 ## Note:
@@ -26,13 +26,11 @@ If output looks like `Python 3` - Congrats, Python 3 is installed properly.
 
 ## Features:
 
-- Lots of integrated SMS/call APIs
-- Unlimited (Limited against abusing) and super-fast bombing
-- International bombing available (APIS Dead. Try Your Luck.) 
-- Call bombing
+- sms bombing
+- call bombing
+- mail bombing
+- whatsapp bombing
 - Frequent updates
-- Automatic updating mechanism
-- Easy to use and embed in code
 
 ## Usage:
 
