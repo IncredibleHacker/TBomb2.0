@@ -42,12 +42,20 @@ If output looks like `Python 3` - Congrats, Python 3 is installed properly.
 
 ## For Termux
 
-pkg install git
-pkg install python
-git clone https://github.com/Hackertrackersj/Tbomb.git
-cd Tbomb
-chmod +x TBomb.sh
-./TBomb.sh
+## INSTALLATION [Termux] :
+
+* `apt-get update -y`
+* `apt-get upgrade -y`
+* `pkg install python -y`
+* `pkg install python2 -y`
+* `pkg install git -y`
+* `pip install lolcat`
+* `git clone https://github.com/noob-hackers/infect`
+* `cd $HOME`
+* `ls`
+* `cd infect`
+* `ls`
+* `bash infect.sh`
 ```
 ## youtube channel <a href="https://www.youtube.com/channel/UCfzFTlm5vHNSrzZFm-At-Yw"> click here</a>
 
