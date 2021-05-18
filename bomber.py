@@ -338,7 +338,7 @@ except FileNotFoundError:
 
 
 __VERSION__ = get_version()
-__CONTRIBUTORS__ = [ 'Incredible Hacker','Nitro', 'SpeedX', 't0xic0der', 'scpketer', 'Stefan']
+__CONTRIBUTORS__ = [ 'Incredible Hacker', 'SpeedX', 't0xic0der', 'scpketer', 'Stefan']
 
 ALL_COLORS = [Fore.GREEN, Fore.RED, Fore.YELLOW, Fore.BLUE,
               Fore.MAGENTA, Fore.CYAN, Fore.WHITE]
@@ -355,7 +355,7 @@ TBomb is not intented for malicious uses.
 """
 
 parser = argparse.ArgumentParser(description=description,
-                                 epilog='Coded by Nitro !!!')
+                                 epilog='Coded by Incredible Hacker !!!')
 parser.add_argument("-sms", "--sms", action="store_true",
                     help="start TBomb with SMS Bomb mode")
 parser.add_argument("-call", "--call", action="store_true",
