@@ -65,7 +65,7 @@
 
 <br>
 <p align="center">
-<img width="50%" 
+<img width="70%" 
 src="https://github.com/IncredibleHacker/TBomb-2.0/blob/main/master/IMG_20210518_082428.jpg"
 
 ## Warning
