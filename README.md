@@ -30,9 +30,9 @@
 
 * `apt update`
 * `apt upgrade`
-* `pkg install python -y`
-* `pkg install python2 -y`
-* `pkg install git -y`
+* `pkg install python`
+* `pkg install python2`
+* `pkg install git`
 * `git clone https://github.com/IncredibleHacker/TBomb-2.0`
 * `ls`
 * `cd TBomb-2.0`
