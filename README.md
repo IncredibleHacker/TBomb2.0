@@ -66,7 +66,7 @@
 <br>
 <p align="center">
 <img width="50%" 
-src="https://raw.githubusercontent.com/IncredibleHacker/TBomb-2.0/blob/main/master/Screenshot_2021-05-18-08-23-08-947_com.termux.jpg"
+src="https://github.com/IncredibleHacker/TBomb-2.0/blob/main/master/Screenshot_2021-05-18-08-23-08-947_com.termux.jpg"
 
 ## Warning
 This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.
