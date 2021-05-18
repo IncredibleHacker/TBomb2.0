@@ -36,7 +36,7 @@
 * `git clone https://github.com/IncredibleHacker/TBomb-2.0`
 * `ls`
 * `cd TBomb-2.0`
-* `pip2 install requirements.txt
+* `pip2 install requirements.txt`
 * `chmod +x TBomb2.0.sh`
 * `bash TBomb2.0.sh`
 
