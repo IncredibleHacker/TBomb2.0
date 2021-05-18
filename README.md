@@ -1,10 +1,7 @@
 <h1 align="center">TBomb v2.0</h1>
 <p align="center">An open-source SMS/call bomber for Linux And Termux.</p><br>
 
-## Note:
-
-Due misusing of TBomb, several API's died. 
-Don't be afraid if you don't see all send messages.
+## About Tool:
 
 - The script requires working network connection to work.
 - No balance will be deducted for using this script to send SMS/calls.
@@ -12,17 +9,6 @@ Don't be afraid if you don't see all send messages.
 - Don't put spaces in between phone number (Ex- 99999 99999)
 - Make sure you are using the latest version of TBomb
 - Make sure you are using Python3.
-
-Here's how you can check it. Type this command in your terminal.
-```
-$ python -V
-```
-If output looks like `Python 3` - Congrats, Python 3 is installed properly.
-
-- Do not use this to harm others.
-- This script is only for educational purposes or to prank.
-- **None of the developers/contributors are responsible for the misuse of TBomb.**
-<br>
 
 ## Features:
 
