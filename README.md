@@ -61,7 +61,7 @@
 * `git clone https://github.com/Hackertrackersj/Tbomb`
 * `cd TBomb`
 * `chmod +x TBomb.sh`
-* `bash TBomb.sh
+* `bash TBomb.sh`
 
 ## Warning
 This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.
