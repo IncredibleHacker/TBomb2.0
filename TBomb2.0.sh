@@ -165,7 +165,7 @@ echo " "
         echo -e "\e[1;34m Downloading Latest Files..."
         cd $HOME
         rm -rf Tbomb
-        git clone https://github.com/Hackertrackersj/Tbomb
+        https://github.com/IncredibleHacker/TBomb-2.0
         cd Tbomb
         bash TBomb2.0.sh
        
