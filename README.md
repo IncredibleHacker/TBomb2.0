@@ -37,8 +37,8 @@
 * `ls`
 * `cd TBomb-2.0`
 * `pip2 install requirements.txt
-* `chmod +x TBomb 2.0.sh`
-* `bash TBomb 2.0.sh`
+* `chmod +x TBomb2.0.sh`
+* `bash TBomb2.0.sh`
 
 ## INSTALLATION [Kali Linux] :
 
@@ -49,8 +49,8 @@
 * `ls`
 * `cd TBomb-2.0`
 * `ls`
-* `chmod +x TBomb 2.0.sh`
-* `bash TBomb 2.0.sh`
+* `chmod +x TBomb2.0.sh`
+* `bash TBomb2.0.sh`
 
 ## INSTALLATION macOS:
 
