@@ -63,6 +63,7 @@
 * `chmod +x TBomb.sh`
 * `bash TBomb.sh`
 
+## Screenshot:
 <br>
 <p align="center">
 <img width="90%" 
