@@ -63,11 +63,5 @@
 * `chmod +x TBomb.sh`
 * `bash TBomb.sh`
 
-<br>
-<p align="center">
-<img width="50%" 
-https://user-images.githubusercontent.com/78790759/118693822-0f9c3f00-b829-11eb-8f91-e711d4e212ef.jpg
-https://user-images.githubusercontent.com/78790759/118693833-11fe9900-b829-11eb-9ebf-1bbdd3eb025c.jpg
-
 ## Warning
 This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.
