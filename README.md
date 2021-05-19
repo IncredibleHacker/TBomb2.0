@@ -22,7 +22,7 @@
 - Termux
 - Kali Linux
 
-## Test:
+## Test On:
 - Termux
 - Mi Note 9 pro
 
