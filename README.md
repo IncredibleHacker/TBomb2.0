@@ -21,6 +21,7 @@
 ## Available On
 - Termux
 - Kali Linux
+- macOS
 
 ## Test On:
 - Termux
@@ -58,7 +59,7 @@
 * `brew install python3`
 * `sudo easy_install pip`
 * `sudo pip install --upgrade pip`
-* `git clone https://github.com/Hackertrackersj/Tbomb`
+* `git clone https://github.com/IncredibleHacker/TBomb-2.0`
 * `cd TBomb`
 * `chmod +x TBomb.sh`
 * `bash TBomb.sh`
