@@ -128,7 +128,7 @@ echo -e " \033[1;31m                         ➡️ \033[1;33m  [2️⃣] Call b
 echo -e " \033[1;31m                         ➡️ \033[1;33m  [3️⃣] Mail bombing"
 echo -e " \033[1;31m                         ➡️ \033[1;33m  [4️⃣] Whatsapp bombing (coming soon)"
 echo -e " \033[1;31m                         ➡️ \033[1;33m  [5️⃣] Update script"
-echo -e " \033[1;31m                         ➡️ \033[1;33m  [6️⃣] call bombing"
+echo -e " \033[1;31m                         ➡️ \033[1;33m  [6️⃣] exit"
 echo " "
 echo " "
 echo -e "\033[1;36m ############################## \033[1;32m [SELECT] \033[1;36m ####################################"
