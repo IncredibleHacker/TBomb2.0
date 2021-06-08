@@ -70,6 +70,9 @@
 <img width="90%" 
 src="https://github.com/IncredibleHacker/TBomb-2.0/blob/main/master/IMG_20210518_082428.jpg"
 
+
 ## Warning:
 This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.
 
+
+https://youtube.com/c/IncredibleHacker
