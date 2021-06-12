@@ -138,13 +138,13 @@ echo " "
     clear
    if [ $ch -eq 1 ];then
         cd $HOME
-        cd TBomb-2.0
+        cd TBomb2.0
         python3 bomber.py
        
         exit
     elif [ $ch -eq 2 ];then
         cd $HOME
-        cd TBomb-2.0
+        cd TBomb2.0
         python3 bomber.py
         
         exit
@@ -159,14 +159,14 @@ echo " "
         exit
     elif [ $ch -eq 4 ];then
         cd $HOME
-        cd TBomb-2.0
+        cd TBomb2.0
         bash TBomb2.0.sh
     elif [ $ch -eq 5 ];then
         echo -e "\e[1;34m Downloading Latest Files..."
         cd $HOME
-        rm -rf Tbomb
+        rm -rf TBomb
         https://github.com/IncredibleHacker/TBomb-2.0
-        cd TBomb-2.0
+        cd TBomb2.0
         bash TBomb2.0.sh
        
         exit
