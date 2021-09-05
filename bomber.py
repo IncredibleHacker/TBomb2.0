@@ -154,7 +154,7 @@ def check_for_updates():
         return
     mesgdcrt.SectionMessage("Checking for updates")
     fver = requests.get(
-        "https://github.com/Hackertrackersj/Tbomb/blob/master/.version"
+        "https://github.com/IncredibleHacker/TBomb2.0/blob/main/.version"
     ).text.strip()
     if fver != __VERSION__:
         mesgdcrt.WarningMessage("An update is available")
@@ -290,12 +290,12 @@ def selectnode(mode="sms"):
         check_for_updates()
         notifyen()
 
-        max_limit = {"sms": 5000, "call": 1500, "mail": 2000}
+        max_limit = {"sms": 10000, "call": 5000, "mail": 20000}
         cc, target = "", ""
         if mode in ["sms", "call"]:
             cc, target = get_phone_info()
             if cc != "91":
-                max_limit.update({"sms": 2500})
+                max_limit.update({"sms": 1000})
         elif mode == "mail":
             target = get_mail_info()
         else:
